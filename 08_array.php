@@ -1,4 +1,4 @@
 <?php
 //Arrays
 $carros = array("BMW","Veloster","Hillux");
-print_r($carros); 
+echo $carros[0];
